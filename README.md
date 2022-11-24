@@ -9,3 +9,7 @@ Deleter> and shared_ptr<T>, which are simplifications of corresponding templates
 - Interpreter
 
 Implementation of an assembler-like programming language interpreter.
+
+- Tic-tac-toe
+
+Console application-Tic-tac-toe game 10 by 10 (5 in a row) for two players.
